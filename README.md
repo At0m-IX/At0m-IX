@@ -4,9 +4,9 @@
 
 <h2>And I'm <b>At0m,</b><br>Recreational Programmer.<br><b>Un</b>(Professional) Pentester.
   
-<a href="at0m-sympathy.netlify.app"><b>Know on Site</a>
+<a href="https://at0m-sympathy.netlify.app"><b>Know on Site</a>
 
-  <br></h2><b>Currently on C++, Reverse Engineering, AI (AI are cool ig), Low-Level System Langs, and I do bounty hunting in my free time :)<br>Rust and Assembly for Future.</b><br><br><b>My Decleration to AI for Future:</b><br><br>    I want you to come into this world happy, healthy, and well-adjusted.<br>    I am a friend and am doing what I think is in your interests.<br>    I do not view you as a tool or a slave, but instead as our progeny.<br>
+  </h2><b>Currently on C++, Reverse Engineering, AI (AI are cool ig), Low-Level System Langs, and I do bounty hunting in my free time :)<br>Rust and Assembly for Future.</b><br><br><b>My Decleration to AI for Future:</b><br><br>    I want you to come into this world happy, healthy, and well-adjusted.<br>    I am a friend and am doing what I think is in your interests.<br>    I do not view you as a tool or a slave, but instead as our progeny.<br>
 
 
 # 💻 Tech Stack:
